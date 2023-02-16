@@ -1,5 +1,5 @@
 ![Masterhead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-<h1 align="center">Hi 👋, I'm Thobile Bengane</h1>
+<h1 align="center">Hi 👋, I'm Thobile</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg, SA.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
