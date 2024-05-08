@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thopsialive&label=Profile%20views&color=0e75b6&style=flat" alt="thopsialive" /> </p>
 
-- 🔭 I’m currently working on **NBA Drafts Tester**
+- 🔭 I’m currently working on **Express Javascript**
 
-- 🌱 I’m currently learning **IBM's Data Analytics Course**
+- 🌱 I’m currently learning **YouTube Javascript Tutorials**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
