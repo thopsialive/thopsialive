@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thopsialive&label=Profile%20views&color=0e75b6&style=flat" alt="thopsialive" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thopsialive" alt="thopsialive" /></a> </p>
-
 - 🔭 I’m currently working on [Express JavaScript](https://github.com/thopsialive/expressJavascript)
 
 - 🌱 I’m currently learning **YouTube JavaScript Tutorials**
